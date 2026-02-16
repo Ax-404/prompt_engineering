@@ -200,7 +200,7 @@ prompt_business_101/
 
 ## Intégration avec OpenClaw
 
-Ces prompts sont conçus pour être utilisés avec OpenClaw dans l'instance **Business** sur le LattePanda, permettant un contrôle complet et automatisé de tous les aspects du business digital :
+Ces prompts sont conçus pour être utilisés avec OpenClaw dans l'instance **Business** sur le VPS Pro L (up-networks), permettant un contrôle complet et automatisé de tous les aspects du business digital :
 - **Contrôleur de Gestion** : Pilotage opérationnel et stratégique
 - **Marketing Stratégique** : Stratégies marketing avancées et automatisées
 - **Idées Business** : Évaluation et décision sur les opportunités

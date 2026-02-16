@@ -1,6 +1,6 @@
 # Prompt Marketing - Bibliothèque de Prompts OpenClaw
 
-Ce dossier contient 20 prompts marketing structurés pour OpenClaw, basés sur le document `marketing+clawbot.pdf` et les meilleures pratiques de prompt engineering.
+Ce dossier contient 21 prompts marketing structurés pour OpenClaw, basés sur le document `marketing+clawbot.pdf` et les meilleures pratiques de prompt engineering.
 
 ## Structure
 
@@ -36,6 +36,7 @@ Chaque fichier correspond à un prompt marketing spécifique, structuré selon l
 18. **18_pr_newsjacking_bot.md** - Newsjacking et relations presse rapides
 19. **19_ab_test_automator.md** - Tests A/B automatisés de landing pages
 20. **20_full_funnel_attribution_detective.md** - Attribution et customer journey mapping
+21. **21_viral_marketing_legends_engine.md** - Moteur de contenu viral combinant les frameworks d'Hormozi, Gary Vee, Brunson, Kennedy et Schwartz
 
 ## Utilisation
 
